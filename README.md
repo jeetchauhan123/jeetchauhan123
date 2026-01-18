@@ -60,4 +60,63 @@ I enjoy building **responsive, scalable, and production-ready web applications**
 ## 🚀 Projects
 
 ### 🏙 UrbanLUX – E-Commerce Platform
-**Full-stack e-commerce application built from s**
+**Full-stack e-commerce application built from scratch**
+
+- MERN stack based architecture
+- Authentication & Authorization (JWT)
+- Product, cart & order management
+- Image handling with Cloudinary
+- Fully responsive UI with Tailwind CSS
+
+🔗 Live: https://urban-lux.vercel.app/
+
+---
+
+### 🛠 Complaint Management System
+**Role-based complaint tracking system**
+
+- Users can raise complaints
+- Admin assigns tasks to technicians
+- Technicians update complaint status
+- Hosted and deployed on AWS
+
+**Tech:** MERN Stack  
+**Deployment:** AWS
+
+---
+
+## 🧑‍💼 Experience
+
+**Intern Software Developer**  
+📍 *Vardhan Insys, Ahmedabad*  
+🗓 *Dec 2024 – Apr 2025*
+
+- Requirement gathering & planning
+- Responsive UI development
+- Backend API development
+- Testing & deployment on AWS
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: spgtjeet123@gmail.com
+- 💼 LinkedIn: *(add your LinkedIn link here later)*
+- 🌍 Location: Ahmedabad, India
+
+---
+
+⭐ *Always open to learning, building and improving.*
+
