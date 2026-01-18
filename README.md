@@ -94,7 +94,7 @@ I enjoy building **responsive, scalable, and production-ready web applications**
 - Requirement gathering & planning
 - Responsive UI development
 - Backend API development
-- Testing & deployment on AWS
+- Helping deployment on AWS
 
 ---
 
@@ -113,7 +113,7 @@ I enjoy building **responsive, scalable, and production-ready web applications**
 ## 📫 Connect With Me
 
 - 📧 Email: spgtjeet123@gmail.com
-- 💼 LinkedIn: *(add your LinkedIn link here later)*
+- 💼 LinkedIn: *https://www.linkedin.com/in/jeet-chauhan-02724031b/*
 - 🌍 Location: Ahmedabad, India
 
 ---
