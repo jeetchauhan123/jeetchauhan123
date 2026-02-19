@@ -100,18 +100,22 @@ I enjoy building **responsive, scalable, and production-ready web applications**
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeetchauhan123&show_icons=true&theme=tokyonight&count_private=true" alt="Jeet's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeetchauhan123&show_icons=true&theme=tokyonight&count_private=true" alt="Jeet's Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetchauhan123&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeetchauhan123&layout=compact&theme=tokyonight" alt="Top Languages" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeetchauhan123&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeetchauhan123&theme=tokyo-night" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeetchauhan123&theme=tokyo-night" width="100%" alt="Activity Graph" />
 </p>
+
 ---
 
 ## 📫 Connect With Me
