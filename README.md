@@ -101,13 +101,17 @@ I enjoy building **responsive, scalable, and production-ready web applications**
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeetchauhan123&show_icons=true&theme=tokyonight&count_private=true" alt="Jeet's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetchauhan123&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeetchauhan123&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeetchauhan123&theme=tokyo-night" width="100%" alt="Contribution Graph" />
+</p>
 ---
 
 ## 📫 Connect With Me
